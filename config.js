@@ -3,9 +3,9 @@
 
 
 let fs = require('fs')
-global.owner = ['6285828764046', '6285828764046','6285828764046','6285828764046','6285828764046'] // Letakan nomor kamu disini
+global.owner = ['6285726970224', '6285726970224'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
-  // nama: 'https://website'
+  // nama: 'https://xzlyaa.herokuapp.com'
   hardianto: 'https://hardianto-chan.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -22,7 +22,7 @@ global.APIs = { // API Prefix
   bx: 'https://bx-hunter.herokuapp.com',
 
 }
-global.APIKeys = { // APIKey nya disini
+global.APIKeys = https://xzlyaa.herokuapp.com // APIKey nya disini
   // 'https://website': 'apikey'
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
@@ -40,13 +40,13 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Rzy-bot'
-global.author = 'Rzy-bot'
+global.packname = 'Punyaakuuu'
+global.author = 'Anj kau'
 
-global.wait = '「 ⏱️ 」Harap tunggu sebentar...'
-global.eror = '「❗」Server ERROR!'
+global.wait = '「!」Harap tunggu sebentar...'
+global.eror = '「!」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '©Rzy-botz' //change the watermark 
+global.watermark = '©Xzlyaa Chan🌸' //change the watermark 
 global.image = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/ae6f7f701a5be2951648f.jpg'
 
